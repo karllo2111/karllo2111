@@ -20,11 +20,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/karllo2111/karllo2111/output/snake.svg"
-    alt="snake contribution"
-  />
+  <img src="https://raw.githubusercontent.com/karllo2111/karllo2111/output/snake-dark.svg" />
 </p>
+
 
 ---
 
