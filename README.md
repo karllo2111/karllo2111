@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 🎓 Student of **Software Engineering (RPL)**  
 💻 **Web Developer** — Frontend focused  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/karllo2111/karllo2111/output/snake-dark.svg" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,php,laravel,mysql,git,github,figma" />
@@ -33,7 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karllo2111&show_icons=true&theme=transparent" height="150" />
@@ -43,7 +43,7 @@
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karllo2111&theme=github-dark&hide_border=true" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 💬 Programmer Quote
+## Random Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🔗 Connect
+## Connect
 
 <p align="center">
   <a href="https://instagram.com/cervidaeee">
