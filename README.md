@@ -2,6 +2,10 @@
 🔭 I’m currently working on<br>Building small web apps and learning to ship clean, functional features with modern frameworks.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects related to web development, tools, or beginner-friendly learning resources.<br><br>👐 I’m looking for help with<br>Improving code structure, best practices, and writing more maintainable applications.<br><br>🌱 I’m currently learning<br>Frontend Development, backend basics, databases, and how real-world applications are designed.<br><br>💬 Ask me about<br>Web development basics, CRUD apps, learning programming as a student, or project ideas.<br><br>⚡ Fun fact<br>I enjoy turning simple ideas into working apps and learning by building things.
 
 
+<img src="https://raw.githubusercontent.com/karllo2111/karllo2111/output/snake.svg" />
+
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cervidaeee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karllolilo763@gmail.com) 
 
